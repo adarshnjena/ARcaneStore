@@ -150,7 +150,7 @@ const Home = () => {
               {item?.location == userLocation ? (
                 <Card
                   isBlurred
-                  className=" min-w-[300px] border-none bg-background/60 dark:bg-default-100/50 "
+                  className=" min-w-[400px] border-none bg-background/60 dark:bg-default-100/50 "
                   shadow="sm"
                 >
                   <CardBody>
@@ -194,10 +194,9 @@ const Home = () => {
                             isIconOnly
                             color="danger"
                             variant="shadow"
-                            className="w-[100px]"
                             onClick={() => addToFav(item._id)}
                           >
-                            add to fav
+                            <HeartIcon />
                           </Button>
                         </div>
 
@@ -210,7 +209,7 @@ const Home = () => {
                             radius="full"
                             className="bg-gradient-to-tr mt-3 from-[#1E152D] to-[#7D5CB2] text-white shadow-lg w-full"
                           > */}
-                            View Details
+                          View Details
                           {/* </Button> */}
                         </Link>
                       </div>
@@ -230,7 +229,7 @@ const Home = () => {
               {item?.location == userLocation ? (
                 <Card
                   isBlurred
-                  className=" min-w-[300px] border-none bg-background/60 dark:bg-default-100/50 "
+                  className=" min-w-[400px] border-none bg-background/60 dark:bg-default-100/50 "
                   shadow="sm"
                 >
                   <CardBody>
@@ -274,10 +273,9 @@ const Home = () => {
                             isIconOnly
                             color="danger"
                             variant="shadow"
-                            className="w-[100px]"
                             onClick={() => addToFav(item._id)}
                           >
-                            add to fav
+                            <HeartIcon />
                           </Button>
                         </div>
 
@@ -290,7 +288,7 @@ const Home = () => {
                             radius="full"
                             className="bg-gradient-to-tr mt-3 from-[#1E152D] to-[#7D5CB2] text-white shadow-lg w-full"
                           > */}
-                            View Details
+                          View Details
                           {/* </Button> */}
                         </Link>
                       </div>
@@ -371,7 +369,7 @@ const Home = () => {
                           radius="full"
                           className="bg-gradient-to-tr mt-3 from-[#1E152D] to-[#7D5CB2] text-white shadow-lg w-full"
                         > */}
-                          View Details
+                        View Details
                         {/* </Button> */}
                       </Link>
                     </div>
