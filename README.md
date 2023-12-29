@@ -28,7 +28,7 @@
 >  - Receive tailored property recommendations based on your preferences and budget, streamlining your search.
 
 ### Description 📑
-> AR/VR technology can revolutionize the traditional manual selling of houses by addressing several key challenges and offering significant advantages such as Virtual Property Tours, Time and Cost Efficiency, Property Customization etc.
+> AR/VR technology can revolutionize the traditional manual selling of houses by addressing several key challenges and offering significant advantages such as Virtual Property Tours, Time and Cost Efficiency, Property Customization, etc.
 
 ### Our Approach 💡
 - Provide a dedicated AR/VR app or platform for showcasing these properties. The website is user-friendly and compatible with a variety of AR/VR devices, such as headsets, smartphones, or tablets.
@@ -44,10 +44,9 @@
 - **AI House recommendation system via collaborative filtering**
 - **QR Code tracking for real-estate newspaper advertisement with 3d AR models**
 
-### Pitch Deck : 
-You can access the PitchDeck from here [ReLive PitchDeck](https://docs.google.com/presentation/d/e/2PACX-1vSDPcjHNUJDj1WryBGcTMCmM0HV3B_QzxKVKDV5wiw1KNU0Qu9YT_UQZzJEtLfxVg-QNXCErvmuL7Cl/pub?start=true&loop=false&delayms=3000)
 
 ### 🌐 Domains  
+- **Updated Link** : https://arcane-store-v2.vercel.app/login
 - **Client Side** : https://arcane-delta.vercel.app/
 - **Server Side** : https://arcane-server.vercel.app/
 
